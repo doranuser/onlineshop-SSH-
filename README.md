@@ -1,6 +1,11 @@
 # onlineshop-SSH-
 <h1>專案說明</h1>
 <br>
+由於前一個工作擔任美編企劃 主要 負責產品拍攝，做文案、圖像的呈現。<br>
+
+因此希望為能結合前一個工作的作品展現，因此選擇以網路購物網的方式製作。<br><br>
+
+
 --前端技術--<br>
 bootstrap、html、css、javascript、jsp<br><br>
 
