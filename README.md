@@ -41,6 +41,11 @@ c. 選購商品加入購物車，進入購物車前會先做login filter，判�
 d. 購物車確認後，填寫收件者資料及付款方式、收貨方式等<br>
 e. 顯示購物的資訊，點選列印按鈕，列印該頁面<br><br>
 
-3. 針對porder_detile table有做trigger，一旦新增、修改、刪除都會被寫入porder_detile_log table 中
+3. 針對porder_detile table有做trigger，一旦新增、修改、刪除都會被寫入porder_detile_log table 中<br><br>
 
-<img src="https://doranuser.github.io/onlineshop-SSH-/01.JPG" alt="">
+頁面呈現如下<br><br>
+
+
+<img src="https://doranuser.github.io/onlineshop-SSH-/01.JPG" alt="" width="600px"><br><br>
+<img src="https://doranuser.github.io/onlineshop-SSH-/02.JPG" alt="" width="600px">
+
