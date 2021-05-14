@@ -43,4 +43,4 @@ e. 顯示購物的資訊，點選列印按鈕，列印該頁面<br><br>
 
 3. 針對porder_detile table有做trigger，一旦新增、修改、刪除都會被寫入porder_detile_log table 中
 
-<img src="https://doranuser.github.io/onlineshop-SSH-/01.jpg" alt="">
+<img src="https://doranuser.github.io/onlineshop-SSH-/01.JPG" alt="">
